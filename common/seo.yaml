@@ -1,0 +1,44 @@
+default:
+  # TOP兼デフォルト用
+  title: 
+  description: 
+  keywords: 
+  h1: ページタイトルを反映する
+
+seo:
+  - page: about
+    title: 
+    description: 
+    keywords: 
+    h1: ページタイトルを反映する
+
+  - page: faq
+    title: FAQ | 注文住宅なら株式会社ダイジコウギョウ
+    description: 
+    keywords: 
+    h1: ページタイトルを反映する
+
+  - page: company
+    title: 
+    description: 
+    keywords: 
+    h1: ページタイトルを反映する
+
+  - page: news
+    title: 
+    description: 
+    keywords: 
+    h1: ページタイトルを反映する
+  
+  - page: contact
+    title: 
+    description: 
+    keywords: 
+    h1: ページタイトルを反映する
+  
+    # コピペ用
+  # - page:
+  #   title:
+  #   description:
+  #   keywords:
+  #   h1:
